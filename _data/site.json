@@ -1,3 +1,8 @@
 {
-    "title": "Amazing SSG from 11ty!"
-}
+    "name": "11ty Akbar's Baseblog",
+    "url": "http://localhost:8080",
+    "authorName": "Akbarsait N",
+    "authorUrl": "https://akbarsait.com",
+    "description": "Base blog for 11ty",
+    "favicon": "https://localhost:8080/images/meta/favicon.svg"
+  }
